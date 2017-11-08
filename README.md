@@ -1,12 +1,12 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Quiver](http://happenapps.com/#quiver.com)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Quiver](http://happenapps.com/#quiver.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](./Quiver_dracula.jpg)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/quiver](https://draculatheme.com/quiver).
 
 ## Team
 

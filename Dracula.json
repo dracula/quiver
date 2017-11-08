@@ -1,0 +1,242 @@
+{
+  "mainWindow": {
+    "divider": {
+      "topColor": "#44475a",
+      "middleColor": "#44475a",
+      "bottomColor": "#44475a"
+    }
+  },
+  "sidebar": {
+    "topBar": {
+      "backgroundColor": "#282a36",
+      "bottomBorderColor": "#44475a",
+      "segmentedControl": {
+        "tintColor": "#6272a4",
+        "borderWidth": 1,
+        "borderRadius": 3
+      }
+    },
+    "table": {
+      "backgroundColor": "#282a36",
+      "textColor": "#f8f8f2",
+      "selectedTextColor": "#f8f8f2",
+      "emphasizedTextColor": "#f8f8f2",
+      "iconColor": "#f8f8f2",
+      "selectedIconColor": "#f8f8f2",
+      "emphasizedIconColor": "#f8f8f2",
+      "selectedRowBgColor": "#44475a",
+      "emphasizedRowBgColor": "#44475a"
+    },
+    "bottomBar": {
+      "backgroundColor": "#282a36",
+      "topBorderColor": "#44475a",
+      "textColor": "#f8f8f2",
+      "controlColor": "#6272a4",
+      "pressedControlColor": "#6272a4"
+    }
+  },
+  "noteList": {
+    "topBar": {
+      "backgroundColor": "#282a36",
+      "bottomBorderColor": "#44475a",
+      "controlColor": "#6272a4",
+      "pressedControlColor": "#6272a4"
+    },
+    "tableHeader": {
+      "backgroundColor": "#282a36",
+      "bottomBorderColor": "#44475a",
+      "controlColor": "#6272a4",
+      "pressedControlColor": "#6272a4"
+    },
+    "table": {
+      "backgroundColor": "#282a36",
+      "separatorColor": "#44475a",
+      "textColor": "#f8f8f2",
+      "selectedTextColor": "#f8f8f2",
+      "emphasizedTextColor": "#f8f8f2",
+      "detailColor": "#8be9fd",
+      "selectedDetailColor": "#f8f8f2",
+      "emphasizedDetailColor": "#f8f8f2",
+      "iconColor": "#f8f8f2",
+      "selectedIconColor": "#f8f8f2",
+      "emphasizedIconColor": "#f8f8f2",
+      "rowBgColor": "#282a36",
+      "altRowBgColor": "#282a36",
+      "selectedRowBgColor": "#44475a",
+      "emphasizedRowBgColor": "#44475a",
+      "draggedRowBgColor": "#44475a",
+      "emptyTextColor": "#999"
+    },
+    "bottomBar": {
+      "backgroundColor": "#282a36",
+      "searchField": {
+        "textColor": "#f8f8f2",
+        "controlColor": "#6272a4",
+        "pressedControlColor": "#6272a4",
+        "backgroundColor": "#282a36",
+        "borderColor": "#44475a",
+        "placeholderColor": "#6272a4"
+      }
+    }
+  },
+  "noteView": {
+    "backgroundColor": "#282a36",
+    "dividerColor": "#576071",
+    "topBar": {
+      "backgroundColor": "#282a36",
+      "bottomBorderColor": "#576071",
+      "controlColor": "#6272a4",
+      "pressedControlColor": "#6272a4",
+      "segmentedControl": {
+        "tintColor": "#6272a4",
+        "borderWidth": 1,
+        "borderRadius": 3
+      }
+    },
+    "toolbar": {
+      "backgroundColor": "#282a36",
+      "dividerColor": "#44475a",
+      "middleDividerColor": "#44475a",
+      "controlColor": "#6272a4",
+      "pressedControlColor": "#6272a4",
+      "iconColor": "#6272a4",
+      "textColor": "#f8f8f2",
+      "popUpButton": {
+        "titleColor": "#f8f8f2",
+        "borderColor": "#44475a"
+      },
+      "tagField": {
+        "textColor": "#f8f8f2",
+        "placeholderColor": "#999",
+        "tag": {
+          "textColor": "#f8f8f2",
+          "selectedTextColor": "#f8f8f2",
+          "backgroundColor": "#6272a4",
+          "selectedBackgroundColor": "#44475a",
+          "borderRadius": 2
+        }
+      },
+      "formatBar": {
+        "controlColor": "#6272a4",
+        "highlightColor": "#f8f8f2"
+      },
+      "searchField": {
+        "textColor": "#f8f8f2",
+        "controlColor": "#6272a4",
+        "pressedControlColor": "#6272a4",
+        "backgroundColor": "#282a36",
+        "borderColor": "#44475a",
+        "placeholderColor": "#6272a4"
+      },
+      "doneButton": {
+        "textColor": "#f8f8f2",
+        "highlightBackgroundColor": "#282a36",
+        "borderColor": "#44475a"
+      }
+    },
+    "bottomBar": {
+      "backgroundColor": "#282a36",
+      "controlColor": "#6272a4",
+      "pressedControlColor": "#6272a4"
+    }
+  },
+  "multiNote": {
+    "backgroundColor": "#282a36",
+    "textColor": "#f8f8f2",
+    "button": {
+      "tintColor": "#44475a",
+      "highlightColor": "#8be9fd",
+      "backgroundColor": "#282a36",
+      "highlightBackgroundColor": "#8be9fd",
+      "borderColor": "#44475a",
+      "highlightBorderColor": "#44475a"
+    },
+    "tagField": {
+      "textColor": "#f8f8f2",
+      "placeholderColor": "#6272a4",
+      "backgroundColor": "#282a36",
+      "borderColor": "#44475a",
+      "borderRadius": 2,
+      "tag": {
+        "textColor": "#f8f8f2",
+        "selectedTextColor": "#f8f8f2",
+        "backgroundColor": "#282a36",
+        "selectedBackgroundColor": "#44475a",
+        "borderRadius": 2
+      }
+    }
+  },
+  "notebookPicker": {
+    "backgroundColor": "#282a36",
+    "textColor": "#f8f8f2",
+    "dividerColor": "#44475a",
+    "searchField": {
+      "textColor": "#f8f8f2",
+      "controlColor": "#6272a4",
+      "pressedControlColor": "#6272a4",
+      "backgroundColor": "#282a36",
+      "borderColor": "#44475a",
+      "placeholderColor": "#6272a4"
+    },
+    "table": {
+      "textColor": "#f8f8f2",
+      "selectedTextColor": "#6272a4",
+      "emphasizedTextColor": "#6272a4",
+      "iconColor": "#f8f8f2",
+      "selectedIconColor": "#6272a4",
+      "emphasizedIconColor": "#6272a4",
+      "selectedRowBgColor": "#282a36",
+      "emphasizedRowBgColor": "#282a36",
+      "emptyTextColor": "#ccc"
+    }
+  },
+  "searchView": {
+    "backgroundColor": "#282a36",
+    "searchField": {
+      "textColor": "#f8f8f2",
+      "controlColor": "#f8f8f2",
+      "pressedControlColor": "#6272a4",
+      "backgroundColor": "#282a36",
+      "borderColor": "#44475a",
+      "placeholderColor": "#6272a4"
+    },
+    "tableHeader": {
+      "backgroundColor": "#282a36",
+      "topBorderColor": "#44475a",
+      "bottomBorderColor": "#44475a",
+      "textColor": "#f8f8f2",
+      "controlColor": "#6272a4",
+      "pressedControlColor": "#6272a4"
+    },
+    "table": {
+      "separatorColor": "#576071",
+      "textColor": "#f8f8f2",
+      "selectedTextColor": "#6272a4",
+      "emphasizedTextColor": "#6272a4",
+      "detailColor": "#8be9fd",
+      "selectedDetailColor": "#8be9fd",
+      "emphasizedDetailColor": "#8be9fd",
+      "iconColor": "#8be9fd",
+      "selectedIconColor": "#8be9fd",
+      "emphasizedIconColor": "#8be9fd",
+      "rowBgColor": "#282a36",
+      "altRowBgColor": "#282a36",
+      "selectedRowBgColor": "#44475a",
+      "emphasizedRowBgColor": "#44475a",
+      "emptyTextColor": "#ccc"
+    }
+  },
+  "presentation": {
+    "backgroundColor": "#282a36"
+  },
+  "editor": {
+    "codeCellTheme": "monokai",
+    "markdownCellTheme": "monokai"
+  },
+  "css": {
+    "className": "dracula",
+    "editor": ".dracula{color:#f8f8f2}.dracula a{color:#f8f8f2}.dracula table tr:nth-child(even){background-color:#282a36}.dracula table th{background:#282a36}.dracula table td,.dracula table th{border-color:#44475a}.dracula blockquote{color:#50fa7b}.dracula hr{background-color:#282a36}.dracula code{background-color:#282a36}.dracula svg{background-color:#282a36}.dracula .text-cell [style]{color:#f8f8f2!important;background-color:transparent!important}.dracula .diagram-cell .ace_editor,.dracula .latex-cell .ace_editor,.dracula .markdown-cell .ace_editor{color:#f8f8f2;background-color:#282a36}.dracula .markdown-cell .ace_list{color:#f8f8f2}.dracula .cell.inEditMode{border-color:#44475a;}",
+    "preview": ".dracula{color:#f8f8f2}.dracula a{color:#f8f8f2}.dracula table tr:nth-child(even){background-color:#282a36}.dracula table th{background:#282a36}.dracula table td,.dracula table th{border-color:#44475a}.dracula blockquote{color:#50fa7b}.dracula hr{background-color:#282a36}.dracula code{background-color:#282a36}.dracula svg{background-color:#282a36}.dracula .text-cell [style]{color:#f8f8f2!important;background-color:transparent!important}.dracula #tag-field{margin:8px 2px;}.dracula #tag-field .tag{background:#6272a4;border-radius:2px;color:#f8f8f2;}",
+    "presentation": ".dracula{color:#f8f8f2}.dracula a{color:#f8f8f2}.dracula table tr:nth-child(even){background-color:#282a36}.dracula table th{background:#282a36}.dracula table td,.dracula table th{border-color:#44475a}.dracula blockquote{color:#50fa7b}.dracula hr{background-color:#282a36}.dracula code{background-color:#282a36}.dracula svg{background-color:#282a36}.dracula .text-cell [style]{color:#f8f8f2!important;background-color:transparent!important}"
+  }
+}
