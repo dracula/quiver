@@ -10,11 +10,11 @@ All instructions can be found at [draculatheme.com/quiver](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/benknoble/quiver-dracula/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/quiver/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[![David Ben Knoble](https://avatars3.githubusercontent.com/u/22802209?v=4&s=70)](https://github.com/benknoble) |
+--- |
+[David Ben Knoble](https://github.com/benknoble) |
 
 ## License
 
