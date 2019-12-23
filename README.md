@@ -2,7 +2,7 @@
 
 > A dark theme for [Quiver](http://happenapps.com/#quiver.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/quiver.jpg)
+![Screenshot](./screenshot.png)
 
 ## Install
 
